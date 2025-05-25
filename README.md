@@ -1,2 +1,11 @@
-# ECU_TCU_Files
- This repository contains a collection of ECU (Engine Control Unit) and TCU (Transmission Control Unit) binary files (.bin), along with their corresponding definition files (.xdf) used for tuning and analysis.  The files are organized into two main categories:  Base: Original, unmodified factory files.  Modified: Tuned or optimized versions of the base files.  These resources are intended for educational and research purposes only, such as studying map structures, comparing OEM vs. tuned files, and developing custom tuning strategies.  ⚠️ Usage Notice: The files in this repository are subject to copyright. Do not use, modify, or distribute any content without the explicit permission of the repository owner.
+This repository contains a collection of ECU (Engine Control Unit) and TCU (Transmission Control Unit) binary files (.bin), along with their corresponding definition files (.xdf) used for tuning and analysis.
+
+The files are organized into two main categories:
+
+Base: Original, unmodified factory files.
+
+Modified: Tuned or optimized versions of the base files.
+
+These resources are intended for educational and research purposes only, such as studying map structures, comparing OEM vs. tuned files, and developing custom tuning strategies.
+
+⚠️ Usage Notice: The files in this repository are subject to copyright. Do not use, modify, or distribute any content without the explicit permission of the repository owner.
