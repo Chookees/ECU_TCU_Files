@@ -1,39 +1,59 @@
-This repository contains a collection of ECU (Engine Control Unit) and TCU (Transmission Control Unit) binary files (.bin), along with their corresponding definition files (.xdf) used for tuning and analysis.
+# ECU & TCU Binary and Definition File Collection
 
-The files are organized into two main categories:
+This repository contains a collection of ECU (Engine Control Unit) and TCU (Transmission Control Unit) binary files (`.bin`), along with their corresponding definition files (`.xdf`) used for tuning and analysis.
 
-Base: Original, unmodified factory files.
+## Repository Structure
 
-Modified: Tuned or optimized versions of the base files.
+The files are organized by manufacturer and model, using a consistent folder hierarchy to support multiple vehicle platforms. Each vehicle follows this structure:
 
-This repository contains a structured collection of ECU (Engine Control Unit) and TCU (Transmission Control Unit) binary files (.bin), along with their corresponding definition files (.xdf) for tuning, comparison, and educational purposes.
-
-Files are organized hierarchically to support multiple vehicle manufacturers and models. The folder structure follows this format:
+```
 Manufacturer/Model/Chassis/EngineCode/VIN/
+├── ECU/
+│   ├── Base/        # Original, unmodified factory files
+│   └── Modified/    # Tuned or optimized versions
+└── TCU/
+    ├── Base/
+    └── Modified/
+```
+
+### Example:
+
+```
+BMW/3/E46/330i/WBA123456789/
 ├── ECU/
 │   ├── Base/
 │   └── Modified/
 └── TCU/
     ├── Base/
     └── Modified/
+```
 
-Example:
-BMW/3/E46/330i/WBA123456789/
-├── ECU/
-│   ├── Base/        # Original factory ECU binaries and .xdf files
-│   └── Modified/    # Tuned or modified versions
-└── TCU/
-    ├── Base/
-    └── Modified/
+Future additions will follow the same format. For example:
 
-This structure ensures consistency and makes it easy to add support for additional vehicles, such as:
+```
 Seat/Leon/1P/1.8TSI/VSS123456789/
+```
 
-Contribution Guidelines:
-Follow the folder hierarchy exactly as described above.
+## Content Overview
 
-Include both .bin and matching .xdf files whenever possible.
+- **Base**: Original, unmodified factory `.bin` files and matching `.xdf` definition files.
+- **Modified**: Tuned or optimized versions of the base files, for analysis and comparison.
 
-Use full VINs or anonymized placeholders (e.g., VIN123...) if privacy is a concern.
+These resources are intended for **educational and research purposes only**, such as:
+- Studying map structures
+- Comparing OEM vs. tuned files
+- Developing custom tuning strategies
 
-⚠️ Usage Notice: All files in this repository are provided for educational and research purposes only. Do not use or redistribute any content without the explicit written permission of the repository owner. All rights reserved.
+## Contribution Guidelines
+
+- Follow the folder structure strictly as outlined above.
+- Include both `.bin` and `.xdf` files when possible.
+- Use full or anonymized VINs (`VIN123...`) for folder names to maintain structure and privacy.
+
+## Usage Notice
+
+⚠️ **Important:**  
+All files in this repository are subject to copyright.  
+**Do not** use, modify, or redistribute any content without the **explicit written permission** of the repository owner.
+
+**All rights reserved.**
