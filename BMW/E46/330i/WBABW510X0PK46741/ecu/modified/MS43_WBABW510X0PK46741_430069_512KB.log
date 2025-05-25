@@ -1,0 +1,9 @@
+Edit Log for MS43_WBABW510X0PK46741_430069_512KB.bin created by TunerPro.
+**************************************************************************
+04/21/2025 13:01:08  Table:     ldp_tco_ex__n_ecf changed.
+04/21/2025 19:30:18  Table:     ldp_tco_ex__n_ecf changed.
+04/21/2025 20:33:04  Table:     ldp_tco_ex__n_ecf changed.
+04/21/2025 20:47:13  Table:     ldp_tco_ex__n_ecf changed.
+05/08/2025 22:55:16  Flag:      lv_mil_knk_lv_2 changed from Not Set to Set..
+05/08/2025 23:00:06  Flag:      lv_mil_knk_lv_2 changed from Set to Not Set..
+05/10/2025 20:02:35  Scalar:    c_vs_min_cru changed from 26.000 km/h (0x0D00) to 16.000 km/h (0x0800).
