@@ -19,7 +19,7 @@ Manufacturer/Model/Chassis/EngineCode/VIN/
 ### Example:
 
 ```
-BMW/3/E46/330i/WBA123456789/
+BMW/3/E46/M54B30/WBA123456789/
 ├── ECU/
 │   ├── Base/
 │   └── Modified/
@@ -31,7 +31,7 @@ BMW/3/E46/330i/WBA123456789/
 Future additions will follow the same format. For example:
 
 ```
-Seat/Leon/1P/1.8TSI/VSS123456789/
+Seat/Leon/1P/CDAA/VSS123456789/
 ```
 
 ## Content Overview
