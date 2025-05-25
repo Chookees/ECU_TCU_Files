@@ -8,12 +8,12 @@
 ## Tools Required
 
 ### Reading/Writing ECU
-- **MS4x Flasher** (Windows/Android)
+- **MS4x Flasher** (Windows/Android) (https://www.ms4x.net/)
   - Used to read/write ECU over OBD or bench
   - Supports full flash, partial flash, and recovery
 
 ### ECU Editing
-- **TunerPro**
+- **TunerPro** (https://tunerpro.net/)
   - Used with `.xdf` files to modify `.bin` images
   - Make sure to match ECU version with correct `.xdf`
 
