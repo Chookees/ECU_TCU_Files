@@ -54,6 +54,6 @@ These resources are intended for **educational and research purposes only**, suc
 
 ⚠️ **Important:**  
 All files in this repository are subject to copyright.  
-**Do not** use, modify, or redistribute any content without the **explicit written permission** of the repository owner.
+**Do not** use or redistribute any content without the **explicit written permission** of the repository owner.
 
 **All rights reserved.**
