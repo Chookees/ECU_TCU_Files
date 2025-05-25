@@ -53,7 +53,10 @@ These resources are intended for **educational and research purposes only**, suc
 ## Usage Notice
 
 ⚠️ **Important:**  
-All files in this repository are subject to copyright.  
-**Do not** use or redistribute any content without the **explicit written permission** of the repository owner.
+All files in this repository may be used and modified for personal and non-commercial purposes.  
+**Do not distribute** any files from this repository in any form, including resale, sharing, or repackaging.
 
-**All rights reserved.**
+## Disclaimer
+
+The use of any files in this repository is done entirely at your own risk.  
+The repository owner assumes **no liability or responsibility** for any damage, malfunction, or legal issues arising from the use, modification, or misuse of the files provided.
