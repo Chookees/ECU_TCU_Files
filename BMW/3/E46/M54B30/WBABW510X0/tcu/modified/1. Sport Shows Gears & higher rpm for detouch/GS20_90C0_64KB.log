@@ -1,6 +1,0 @@
-Edit Log for GS20_90C0_64KB.bin created by TunerPro.
-**************************************************************************
-05/11/2025 22:44:15  Scalar:    KOMBI: Show gear in "S" changed from 0  (0x00) to 1  (0x01).
-05/11/2025 22:58:02  Scalar:    TCC: Condition Throttle threshold 2, Detouch changed from 0 % (0x0000) to 5 % (0x0CD9)..
-05/12/2025 07:04:36  Scalar:    TCC: Condition Motor-Turbine threshold changed from 50 rpm (0x0190) to 40 rpm (0x0140).
-05/12/2025 07:04:37  Scalar:    TCC: Condition Motor-Turbine threshold 2 changed from 40 rpm (0x0140) to 50 rpm (0x0190).
