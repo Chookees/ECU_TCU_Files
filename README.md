@@ -5,7 +5,7 @@ This repository contains a collection of ECU (Engine Control Unit) and TCU (Tran
 ## Repository Structure
 
 The files are organized by manufacturer and model, using a consistent folder hierarchy to support multiple vehicle platforms. Each vehicle follows this structure:
-
+For the VIN part, remove from the complete the last 5 chars for privacy reasons.
 ```
 Manufacturer/Model/Chassis/EngineCode/VIN/
 ├── ECU/
@@ -48,7 +48,7 @@ These resources are intended for **educational and research purposes only**, suc
 
 - Follow the folder structure strictly as outlined above.
 - Include both `.bin` and `.xdf` files when possible.
-- Use full or anonymized VINs (`VIN123...`) for folder names to maintain structure and privacy.
+- Use full(-5 chars) for folder names to maintain structure and privacy.
 
 ## Usage Notice
 
